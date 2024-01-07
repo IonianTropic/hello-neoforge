@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "helloneoforge:block/ruby_block"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "helloneoforge:ruby"
+    }
+  },
+  "result": {
+    "item": "helloneoforge:ruby_block"
+  }
+}
